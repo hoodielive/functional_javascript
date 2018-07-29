@@ -1,22 +1,22 @@
 # functional_javascript
 Functional Javascript Basics and Libraries 
 
-## Beware of Hype 
+### Beware of Hype 
 + Often this is the wrong reason to pick a technology! 
 + Learn for edification and usefulness relative to your technological goals 
-+ Why functional programming?
+### Why functional programming?
 	+ Predictable 
 	+ Modular (composability) 
 	+ Safe (side-effect free, won't change in unexpected/unanticipated ways - its very deliberate) 
 
-+ Key Terms and Concepts
+### Key Terms and Concepts
 	+ Pure Functions
 	+ Composition
 	+ Currying
 	+ Immutable Data
 	+ Closure 
 
-+ Pure Function Contingenices
+### Pure Function Contingenices
 	+ Side-Effect free 
 	+ Same Output
 	+ No External Dependencies 
