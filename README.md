@@ -21,7 +21,8 @@ Functional Javascript Basics and Libraries
 	+ Same Output
 	+ No External Dependencies 
 	
-const func1 = (a, b) => a + b; // this is a pure function because
+const func1 = (a, b) => a + b; 
++ this is a pure function because
 	+ No side effects
 	+ Same output for same input 
 	+ no external dependecies 
